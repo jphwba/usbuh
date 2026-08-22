@@ -2,6 +2,9 @@
 
 This is a USB Hub that features USB-C input, an Auxilary Port with Audio in and out, three USB-A 2.0 ports, two USB-C 2.0 ports and a micro SD Card slot. The main USB hub controllers are two FE1.1s's, a GL823K for the micro-sd controller, an AMS1117-3.3 to step down 5v connections into 3v3 and a PCM2902E for the audio controller. I made this because on my desk the area where my PC is requires the top IO to be blocked which had all of these ports and there was no space to run a cable it was a very tight gap so my current solution is running a $5 temu adapter which goes through a USB-C to USB-A adapter ($0.30 from temu) and a USB1.0 extension cable, so my devices do run pretty slow. So I decided to make this. SInce I'm not very experienced with KiCad and with PCB's and everything, I found USB3.0 a bit more complex and I realised that my design was USB2.0 only too far into the project so I just stuck with 2.0. I also decided later in the project that I wanted an aux port since my headset has an audio/mic combo port and my PC only has split and the adapter I used doesn't work. 
 
+## Printing Notice
+Please print 5 connector brakets as there is only 1 in the step file.
+
 ## Assembly
 
 The USB Hub has a pretty simple assembly requiring only 4 screws. First in the base plate 4 heatset inserts (M2x3.2mm) go into the standoffs. Then the pcb just goes on top and is screwed in. After this, the walls are placed just on top of the base plate and is attatched with connector brackets I made which go along the sides. Then the top plate just props ontop of the walls and then the front cover is attatched by just pressing it into the front of the assembly. 
