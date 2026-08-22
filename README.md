@@ -28,6 +28,7 @@ The USB Hub has a pretty simple assembly requiring only 4 screws. First in the b
 
 ### PCB Order
 ![alt text](res/image-6.png)
+![alt text](res/image-7.png)
 
 ## Bill of Materials: PLEASE NOTE ALL PRICES ARE IN AUSTRALIAN DOLLARS
 |Reference                |Qty|Value                      |Footprint                                                            |Datasheet                                                                        |Item Name                                                                                                                       |Qty|Variation                                  |Price (AUD)|Shipping Fee (If Applicable)|Reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
