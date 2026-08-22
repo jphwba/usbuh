@@ -70,16 +70,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "copper_edge_clearance|186320000|140797500|bdb19b16-d6fc-48ab-ae94-b660344555dd|f9ace0f5-a115-40ff-888e-66dac4f50789",
-          ""
-        ],
-        [
-          "copper_edge_clearance|199670000|140797500|bdb19b16-d6fc-48ab-ae94-b660344555dd|dd16ed76-c7f0-42a1-bd2a-b9f7bcb66b90",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -159,10 +150,10 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
-        "min_text_thickness": 0.08,
+        "min_text_height": 0.254,
+        "min_text_thickness": 0.0635,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 0.198,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -533,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
