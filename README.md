@@ -25,6 +25,8 @@ The USB Hub has a pretty simple assembly requiring only 4 screws. First in the b
 
 ![alt text](res/image-4.png)
 ![alt text](res/image-5.png)
+<img width="618" height="431" alt="image" src="https://github.com/user-attachments/assets/e20d0511-92a9-4cfc-aa3e-fcc1324b3fb3" />
+
 
 ### PCB Order
 ![alt text](res/image-6.png)
